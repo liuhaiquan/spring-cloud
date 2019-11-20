@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-parent/springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-config-client/springCloud-config-client.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-config-client/springCloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-config-client1/springCloud-config-client1.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-config-client1/springCloud-config-client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-config-server/springCloud-config-server.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-config-server/springCloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-core/springCloud-core.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-core/springCloud-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-eureka-server/springCloud-eureka-server.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-eureka-server/springCloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-feign-server/springCloud-feign-server.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-feign-server/springCloud-feign-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-order-server/springCloud-order-server.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-order-server/springCloud-order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-order1-server/springCloud-order1-server.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-order1-server/springCloud-order1-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-ucenter-server/springCloud-ucenter-server.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-ucenter-server/springCloud-ucenter-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-zuul-server/springCloud-zuul-server.iml" filepath="$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-zuul-server/springCloud-zuul-server.iml" />
+    </modules>
+  </component>
+</project>

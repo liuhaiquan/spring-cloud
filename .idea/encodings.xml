@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springCloud-config-client" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springCloud-config-client1" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springCloud-config-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springCloud-eureka-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springCloud-feign-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springCloud-order-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springCloud-order1-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springCloud-ucenter-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springCloud-zuul-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/springCloud-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-config-client1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-feign-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-order1-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-ucenter-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud/springCloud-parent/springCloud-zuul-server" charset="UTF-8" />
   </component>
 </project>

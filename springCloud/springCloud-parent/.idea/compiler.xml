@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springCloud-config-client" />
+        <module name="springCloud-config-client1" />
+        <module name="springCloud-config-server" />
+        <module name="springCloud-eureka-server" />
+        <module name="springCloud-feign-server" />
+        <module name="springCloud-order-server" />
+        <module name="springCloud-order1-server" />
+        <module name="springCloud-ucenter-server" />
+        <module name="springCloud-zuul-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -9,6 +9,7 @@
         <module name="springCloud-config-client" />
         <module name="springCloud-config-client1" />
         <module name="springCloud-config-server" />
+        <module name="springCloud-core" />
         <module name="springCloud-eureka-server" />
         <module name="springCloud-feign-server" />
         <module name="springCloud-order-server" />
@@ -17,5 +18,18 @@
         <module name="springCloud-zuul-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springCloud" target="1.8" />
+      <module name="springCloud-config-client" target="1.8" />
+      <module name="springCloud-config-client1" target="1.8" />
+      <module name="springCloud-config-server" target="1.8" />
+      <module name="springCloud-core" target="1.5" />
+      <module name="springCloud-eureka-server" target="1.8" />
+      <module name="springCloud-feign-server" target="1.8" />
+      <module name="springCloud-order-server" target="1.8" />
+      <module name="springCloud-order1-server" target="1.8" />
+      <module name="springCloud-ucenter-server" target="1.8" />
+      <module name="springCloud-zuul-server" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
